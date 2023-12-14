@@ -1,2 +1,3 @@
-# exchange_rate_monitoring_RMB
+# Exchange-rate-monitor
+
 Supports any currencies posted by BOC to RMB.
